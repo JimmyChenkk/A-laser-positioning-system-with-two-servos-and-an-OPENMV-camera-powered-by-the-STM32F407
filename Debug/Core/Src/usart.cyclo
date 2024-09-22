@@ -1,0 +1,4 @@
+../Core/Src/usart.c:16:6:USART1_Init	1
+../Core/Src/usart.c:31:6:HAL_UART_MspInit	2
+../Core/Src/usart.c:55:6:HAL_UART_RxCpltCallback	8
+../Core/Src/usart.c:95:6:USART1_IRQHandler	3

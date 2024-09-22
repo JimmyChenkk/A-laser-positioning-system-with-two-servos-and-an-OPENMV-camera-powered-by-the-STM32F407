@@ -1,0 +1,4 @@
+../Core/Src/time.c:14:6:TIM3_Init	16	static
+../Core/Src/time.c:29:6:HAL_TIM_Base_MspInit	24	static
+../Core/Src/time.c:41:6:TIM3_IRQHandler	8	static
+../Core/Src/time.c:48:6:HAL_TIM_PeriodElapsedCallback	24	static

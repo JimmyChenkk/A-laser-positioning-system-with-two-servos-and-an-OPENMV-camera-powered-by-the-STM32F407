@@ -1,0 +1,5 @@
+../Core/Src/servo.c:25:6:SetServoAngle	3
+../Core/Src/servo.c:42:6:servo_init	1
+../Core/Src/servo.c:48:7:PID_Control	1
+../Core/Src/servo.c:57:6:lasertrack	12
+../Core/Src/servo.c:93:6:anglelimit	3
